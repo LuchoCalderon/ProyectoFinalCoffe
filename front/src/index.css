@@ -1,0 +1,147 @@
+body{
+    padding: 0;
+    margin: 0;
+  }
+  
+  h3{
+    margin-left: 50px;
+    margin-right: 100px;
+  }
+  nav{
+    background-color: rgb(182, 207, 155);
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  nav a{
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .page{
+    height: 60vh;
+    padding: 30px ;
+  }
+  
+  
+  .page.principal{
+    background-color: darkgoldenrod;
+  }
+  
+  .page.contacto{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+  .page.blog{
+    background-color: gray;
+  }
+
+  img{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+  
+form{
+  box-shadow: 0px 4px 93px 8px rgba(87,84,87,1);
+  display: flex;
+  flex-direction:column;
+  align-items:center;
+  background-color:#dcdcde;
+  width: 20rem;
+  height: auto;
+  padding: 2rem; 
+  border-radius: 30px;  
+ 
+}
+.form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  background: none;
+  outline: none;
+  resize: none;
+  border: 0;
+  font-family: "Montserrat", sans-serif;
+  transition: all 0.3s;
+  border-bottom: 2px solid #bebed2;
+}
+input:focus {
+  border-bottom: 2px solid #c4d7c3;
+}
+input:hover{
+  background: #a0aba5;
+  color: #fff;
+  border-radius: 30px;
+  }
+p:before {
+  content: attr(type);
+  display: block;
+  margin: 28px 0 0;
+  font-size: 14px;
+  color: #5a5a5a;
+}
+button {
+  float: right;
+  padding: 8px 12px;
+  margin: 8px 0 0;
+  font-family: "Montserrat", sans-serif;
+  /* border: 2px solid #78788c; */
+  background: 0;
+  color: #2b322d;
+  cursor: pointer;
+  transition: all 0.3s;
+  }
+  button:hover {
+      background: #c1d2cf;
+      color: #fff;
+  }
+
+  textarea{
+      background-color:#b1b1b9;
+  }
+
+.boton {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  background: none;
+  outline: none;
+  resize: none;
+  border: 0;
+  font-family: "Montserrat", sans-serif;
+  transition: all 0.3s;
+  border-bottom: 2px solid #bebed2;
+}
+.boton:focus {
+  border-bottom: 2px solid #b4cbbe;
+}
+.boton:hover{
+  background: #789b91;
+  color: #fff;
+  border-radius: 30px;
+  }
+p:before {
+  content: attr(type);
+  display: block;
+  margin: 28px 0 0;
+  font-size: 14px;
+  color: #5a5a5a;
+}
+
+textarea{
+  border-radius: 10px;
+}

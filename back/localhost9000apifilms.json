@@ -1,0 +1,42 @@
+[
+  {
+    "_id":"652b173",
+    "nombre": "The Flash",
+    "calificaciones":"PG",
+    "imagen":"https://m.media-amazon.com/images/I/81OpOE6vL7L._AC_UF894,1000_QL80_.jpg",
+    "director":"Danny DeVito",
+    "fechaEstreno":"Aug 2, 1996",
+    "tiempoDuracion":"1h 33m",
+    "genero":"Kids & family, comedy",
+    "distribuidor":"Trstar",
+    "__v":0
+
+  },
+  {
+    "_id":"652b174",
+    "nombre": "The Flash",
+    "calificaciones":"PG",
+    "imagen":"https://m.media-amazon.com/images/I/81OpOE6vL7L._AC_UF894,1000_QL80_.jpg",
+    "director":"Danny DeVito",
+    "fechaEstreno":"Aug 2, 1996",
+    "tiempoDuracion":"1h 33m",
+    "genero":"Kids & family, comedy",
+    "distribuidor":"Trstar",
+    "__v":0   
+
+  },
+  {
+    "_id":"652b177",
+    "nombre": "The Flash",
+    "calificaciones":"PG",
+    "imagen":"https://m.media-amazon.com/images/I/81OpOE6vL7L._AC_UF894,1000_QL80_.jpg",
+    "director":"Danny DeVito",
+    "fechaEstreno":"Aug 2, 1996",
+    "tiempoDuracion":"1h 33m",
+    "genero":"Kids & family, comedy",
+    "distribuidor":"Trstar",
+    "__v":0
+  }
+
+]
+
